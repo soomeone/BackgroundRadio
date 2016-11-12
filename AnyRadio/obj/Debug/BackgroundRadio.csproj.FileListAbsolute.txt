@@ -1,0 +1,3 @@
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\AnyRadio\AnyRadio\bin\Debug\AnyRadio.exe.config
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.exe
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.pdb

@@ -1,0 +1,9 @@
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\bin\Debug\AnyRadio.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\bin\Debug\AnyRadio.exe
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\bin\Debug\AnyRadio.pdb
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.exe
+c:\users\mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.pdb
+C:\Users\Mio\documents\visual studio 2015\Projects\AnyRadio\AnyRadio\obj\Debug\AnyRadio.BackgroundRadio.resources
